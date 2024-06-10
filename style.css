@@ -1,3 +1,22 @@
 h1{
     color: red;
 }
+.container{
+    margin: 0 auto;
+    padding: 20px ;
+    width: 80vw;
+    text-align: center;
+    border-radius: 20px;
+    color: #fff;
+    background: #5e3c3c;
+}
+details{
+    list-style: none;
+    cursor: pointer;
+}
+details summary{
+    font-size: 20px;
+}
+details p{
+    font-size: 16px;    
+}
